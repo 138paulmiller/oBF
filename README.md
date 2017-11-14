@@ -23,7 +23,7 @@ Memory is tape consisting of integer cells.
 | <  | Move head left	  	|							
 | [  | If cell value is zero, head jumps forward to closing ] |  	
 | ]  | If cell value is nonzero, head jumps back to opening [  |	
-| .  | Prints ASCII character of cell value [  	|
+| .  | Prints ASCII character of cell value   	|
 | ,  | Reads next  argument as an integer into cell  	|
 
 #### Usage
